@@ -213,7 +213,19 @@ section.especiliadades .flex {
 
 .especiliadades .especialidades-box i {
     font-size: 70px;
-    color: #11d7fa;
+    /* color: #085b69; */
+}
+
+.i-javascript {
+    color: #FFD600;
+}
+
+.i-typescript {
+    color: #1677C7;
+}
+
+.i-html {
+    color: #E65100;
 }
 
 .especiliadades .especialidades-box h3 {
